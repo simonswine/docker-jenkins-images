@@ -1,0 +1,12 @@
+deb http://security.ubuntu.com/ubuntu/ trusty-security universe main multiverse restricted
+deb http://de.archive.ubuntu.com/ubuntu trusty-updates universe main multiverse restricted
+deb http://de.archive.ubuntu.com/ubuntu trusty-proposed universe main multiverse restricted
+deb http://de.archive.ubuntu.com/ubuntu trusty main universe multiverse restricted
+
+deb-src http://security.ubuntu.com/ubuntu/ trusty-security universe main multiverse restricted
+deb-src http://de.archive.ubuntu.com/ubuntu trusty-updates universe main multiverse restricted
+deb-src http://de.archive.ubuntu.com/ubuntu trusty-proposed universe main multiverse restricted
+deb-src http://de.archive.ubuntu.com/ubuntu trusty main universe multiverse restricted
+
+deb http://archive.canonical.com/ubuntu trusty partner
+
